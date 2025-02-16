@@ -1,0 +1,44 @@
+h1{
+    color: violet;
+    background-color: grey;
+    text-align: center;
+}
+
+
+marquee{
+font-size: 25px;
+color: blue;
+margin-bottom: 10px;
+}
+h2{
+    background-color: grey;
+    color: violet;
+    text-align: center;
+
+}
+
+.round{
+width: 400px;
+height: 300px;
+margin: 0 20px;
+border-radius: 50%;
+}
+
+h2{
+background-color: grey;
+color: violet;
+
+}
+
+footer{
+width: 100%;
+background-color: black;
+padding: 15px 0;
+text-align: center;
+color: white;
+font-size: 20px;
+}
+
+
+
+
